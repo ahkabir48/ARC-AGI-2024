@@ -1,0 +1,5 @@
+Could you write a sequence of instructions that will transform the first array into the second? 
+
+Here are the arrays again:
+Array 1: {array1}
+Array 2: {array2}

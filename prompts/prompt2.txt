@@ -1,0 +1,1 @@
+Can you find any similarities between the two arrays?

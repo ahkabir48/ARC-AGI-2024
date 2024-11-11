@@ -1,0 +1,8 @@
+You previously suggested a set of instructions to take the input array to the output array. Apply those same instructions/program to the following array. 
+
+Respond with just the 2D array. Do not write code, do use any extra text.
+
+Input:
+{array1}
+
+Your response:

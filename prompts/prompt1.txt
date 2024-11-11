@@ -1,0 +1,5 @@
+You are helping to solve various grid puzzles. The inputs are formatted as arrays. Each value in the array will be an integer from 0-9, with each value corresponding to a different color.
+
+In natural language, describe what is the difference between the following two arrays: 
+Array 1: {array1}
+Array 2: {array2}
